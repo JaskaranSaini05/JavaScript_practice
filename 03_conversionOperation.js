@@ -13,3 +13,7 @@ console.log(booleanIsLoggedIn);
 // 1 => true;
 // 0 => false;
 //"hitesh" => true
+
+let gamecounter = 100
+++gamecounter
+console.log(gamecounter);
