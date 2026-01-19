@@ -1,3 +1,4 @@
+//switch
 const month = 3
 
 switch (month) {
